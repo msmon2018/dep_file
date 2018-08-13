@@ -1,0 +1,6 @@
+[oms_remote]
+name = oms repo
+baseurl = http://127.0.0.1:10098/
+gpgcheck = 0
+enabled = 1
+
