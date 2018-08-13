@@ -193,3 +193,5 @@ file_packages/proxy.tar.gz filter=lfs diff=lfs merge=lfs -text
 file_packages/server.tar.gz filter=lfs diff=lfs merge=lfs -text
 file_packages/agent.tar.gz filter=lfs diff=lfs merge=lfs -text
 yum_packages/datadog-agent.tar.gz filter=lfs diff=lfs merge=lfs -text
+yum_packages/git-1.8.3.1-14.el7_5.x86_64.rpm filter=lfs diff=lfs merge=lfs -text
+yum_packages/perl-Git-1.8.3.1-14.el7_5.noarch.rpm filter=lfs diff=lfs merge=lfs -text
