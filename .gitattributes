@@ -247,3 +247,10 @@ yum_packages/pgpool-II-10-debuginfo-3.7.5-1.rhel7.x86_64.rpm filter=lfs diff=lfs
 yum_packages/pgpool-II-10-devel-3.7.5-1.rhel7.x86_64.rpm filter=lfs diff=lfs merge=lfs -text
 yum_packages/pgpool-II-10-extensions-3.7.5-1.rhel7.x86_64.rpm filter=lfs diff=lfs merge=lfs -text
 yum_packages filter=lfs diff=lfs merge=lfs -text
+yum_packages/inotify-tools-3.14-8.el7.x86_64.rpm filter=lfs diff=lfs merge=lfs -text
+yum_packages/repodata/ae43341a7947d95f815a0884f51fce592e29d51cb2c079e3a368ee36a4372f62-other.xml.gz filter=lfs diff=lfs merge=lfs -text
+yum_packages/repodata/db111b648e932fc7709ee0a15d719b3f7e82935723313ac4cca41ae3d23bd16b-filelists.sqlite.bz2 filter=lfs diff=lfs merge=lfs -text
+yum_packages/repodata/e9ba630239485627664d83e327b750b03743686795582b2faa954e4d5ee4f5c3-other.sqlite.bz2 filter=lfs diff=lfs merge=lfs -text
+yum_packages/repodata/fb7af27ebb6453387f3aeec372af5c714bf054709f4555891c07629242bbc71d-primary.xml.gz filter=lfs diff=lfs merge=lfs -text
+yum_packages/repodata/1cc61c2729947f6ae54680dbccc17d51243601f691bbaf33d7e20039833adeea-filelists.xml.gz filter=lfs diff=lfs merge=lfs -text
+yum_packages/repodata/3c882c3ef958967fe7b2978e54da3be1ba5ca36e9ee44aea3af2b444d2a9e810-primary.sqlite.bz2 filter=lfs diff=lfs merge=lfs -text
