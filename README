@@ -1,0 +1,6 @@
+1、 将大文件加入版本库
+    git lfs track <文件名>
+    例如: git lfs track yum_packages/*
+2、 git add --all
+3、 git commit -m "log"
+4、 git push
